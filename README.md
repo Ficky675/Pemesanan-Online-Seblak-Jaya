@@ -104,6 +104,24 @@ phyton src\UASDPK.py
 **flowchart**
 ![alt text](IMG_20250607_124716.jpg?raw=true)
 
+**Tampilan Utama**
+![alt text](?raw=true)
+
+**Tampilan Kategori 1**
+![alt text](?raw=true)
+
+**Tampilan Kategori 2**
+![alt text](?raw=true)
+
+**Tampilan Kategori 3**
+![alt text](?raw=true)
+
+**Tampilan Struk**
+![alt text](?raw=true)
+
+**Tampilan JSON**
+![alt text](?raw=true)
+
 ---
 
 ## 📝 Lisensi
