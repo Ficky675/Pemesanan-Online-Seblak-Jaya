@@ -53,13 +53,17 @@ git clone https://github.com/Ficky675/Pemesanan-Online-Seblak-Jaya
 ```
 2. Masuk ke di rektori proyek:
 ```bash
-python UASDPK.py
+cd Pemesanan-Online-Seblak-Jaya
 ```
 
-3. Jalankan program menggunakan perintah:
-
+2. Instal dependensi yang diperlukan:
 ```bash
-python UASDPK.py
+pip instal dist/transaksi.json
+```
+
+2. Masuk ke di rektori proyek:
+```bash
+phyton src\UASDPK.py
 ```
 
 ---
