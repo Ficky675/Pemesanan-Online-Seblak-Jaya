@@ -101,10 +101,7 @@ phyton src\UASDPK.py
 
 ## 📄 Dokumentasi Kode (Ringkasan)
 
-- `Item`, `MieJebew`, `Seblak` → representasi objek makanan
-- `ItemDetail` → detail pesanan pembeli
-- `Transaksi` → logika utama pencatatan, penghitungan, pencetakan struk, dan penyimpanan
-- `main()` → fungsi utama yang menangani alur input dari pengguna
+**flowchart**
 
 ---
 
