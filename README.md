@@ -102,6 +102,7 @@ phyton src\UASDPK.py
 ## 📄 Dokumentasi Kode (Ringkasan)
 
 **flowchart**
+![alt text](IMG_20250607_124716.jpg?raw=true)
 
 ---
 
