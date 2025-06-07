@@ -47,7 +47,10 @@ Aplikasi berbasis Python yang digunakan untuk mencatat transaksi penjualan makan
 
 ### 🧑‍💻 Instalasi Dari Kode Sumber (Source Code)
 
-1. Pastikan Python 3 telah terinstal di sistem
+1. Clone repositori ini:
+```bash
+python UASDPK.py
+```
 2. Clone atau unduh proyek ini
 3. Jalankan program menggunakan perintah:
 
