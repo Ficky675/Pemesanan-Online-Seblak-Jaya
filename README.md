@@ -49,9 +49,13 @@ Aplikasi berbasis Python yang digunakan untuk mencatat transaksi penjualan makan
 
 1. Clone repositori ini:
 ```bash
+git clone https://github.com/Ficky675/Pemesanan-Online-Seblak-Jaya
+```
+2. Masuk ke di rektori proyek:
+```bash
 python UASDPK.py
 ```
-2. Clone atau unduh proyek ini
+
 3. Jalankan program menggunakan perintah:
 
 ```bash
