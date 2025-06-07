@@ -105,22 +105,65 @@ phyton src\UASDPK.py
 ![alt text](IMG_20250607_124716.jpg?raw=true)
 
 **Tampilan Utama**
-![alt text](Tampilan_Utama.jpg?raw=true)
+![alt text](gambar/Tampilan_Utama.jpg?raw=true)
 
 **Tampilan Kategori 1**
 ![alt text](gambar/Kategori_1.jpg?raw=true)
 
 **Tampilan Kategori 2**
-![alt text](?raw=true)
+
+![alt text](gambar/Kategori_2.jpg?raw=true)
 
 **Tampilan Kategori 3**
-![alt text](?raw=true)
+
+![alt text](gambar/Kategori_3.jpg?raw=true)
 
 **Tampilan Struk**
-![alt text](?raw=true)
+![alt text](gambar/Struk_pembelanjaan.jpg?raw=true)
 
 **Tampilan JSON**
-![alt text](?raw=true)
+```bash
+{
+    "penjual": "wira",
+    "total": 74000,
+    "pembeli": [
+        {
+            "nomor": 1,
+            "nama": "adit",
+            "kuah": "Nyemek",
+            "rasa": "Gurih",
+            "level_mie": "3",
+            "level_seblak": "4"
+        }
+    ],
+    "items": [
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Mie Jebew Original",
+            "kategori": "Mie Jebew",
+            "jumlah": 1,
+            "subtotal": 10000
+        },
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Toping Sosis",
+            "kategori": "Mie Jebew",
+            "jumlah": 22,
+            "subtotal": 44000
+        },
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Pentol",
+            "kategori": "Seblak",
+            "jumlah": 20,
+            "subtotal": 20000
+        }
+    ]
+}
+```
 
 ---
 
@@ -132,6 +175,6 @@ Proyek ini dibuat untuk keperluan tugas UAS DPK dan bebas digunakan untuk keperl
 
 ## 🙌 Kontributor
 
-- **Nama:** [Isi Nama Anda]
+- **Nama:** [Achmad Ficky Andrian]
 - **Sekolah:** SMKN 1 Probolinggo
 - **Mata Pelajaran:** Dasar Pemrograman Komputer (DPK)
