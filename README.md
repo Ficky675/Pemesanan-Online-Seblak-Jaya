@@ -108,7 +108,7 @@ phyton src\UASDPK.py
 ![alt text](Tampilan_Utama.jpg?raw=true)
 
 **Tampilan Kategori 1**
-![alt text](?raw=true)
+![alt text](gambar/Kategori_1.jpg?raw=true)
 
 **Tampilan Kategori 2**
 ![alt text](?raw=true)
