@@ -105,7 +105,7 @@ phyton src\UASDPK.py
 ![alt text](IMG_20250607_124716.jpg?raw=true)
 
 **Tampilan Utama**
-![alt text](?raw=true)
+![alt text](Cuplikan layar 2025-06-07 161342.png?raw=true)
 
 **Tampilan Kategori 1**
 ![alt text](?raw=true)
