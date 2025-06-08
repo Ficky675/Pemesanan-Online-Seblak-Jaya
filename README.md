@@ -56,12 +56,12 @@ git clone https://github.com/Ficky675/Pemesanan-Online-Seblak-Jaya
 cd Pemesanan-Online-Seblak-Jaya
 ```
 
-2. Instal dependensi yang diperlukan:
+3. Instal dependensi yang diperlukan:
 ```bash
 pip instal dist/transaksi.json
 ```
 
-2. Masuk ke di rektori proyek:
+4. Masuk ke di rektori proyek:
 ```bash
 phyton src\UASDPK.py
 ```
